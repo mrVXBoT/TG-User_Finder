@@ -1,14 +1,14 @@
 # TG-User_Finder
 TG User Finder
 
-pip install telebot
+> pip install telebot
 
-pip install TGcrypto
+> pip install TGcrypto
 
-pip install pyrogram
+> pip install pyrogram
 
-pip install pyromod
+> pip install pyromod
 
-pip install rnd
+> pip install rnd
 
-pip install colorama
+> pip install colorama
