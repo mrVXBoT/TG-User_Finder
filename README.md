@@ -128,16 +128,6 @@ CHANNEL: [ @l27_0 ]
 
 This tool is for educational purposes only. Please use responsibly and in accordance with Telegram's Terms of Service. Excessive use may result in rate limiting or account restrictions.
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/mrVXBoT/TG-User_Finder/issues).
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
